@@ -86,7 +86,7 @@ Array.prototype.myFindLast
 
 Array.prototype.myFindLastIndex
 
-Array.prototype.myFlat
+Array.prototype.myFlat (Updated)
 
 Array.prototype.myForEach
 
@@ -94,7 +94,7 @@ Array.prototype.myIncludes
 
 Array.prototype.myIndexOf
 
-Array.prototype.myMap (updated)
+Array.prototype.myMap 
 
 Array.prototype.myPop
 
