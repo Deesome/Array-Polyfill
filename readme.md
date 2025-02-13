@@ -34,7 +34,7 @@
 
 13. indexOf
 
-14. map (Work in Progress)
+14. map 
 
 15. pop
 
