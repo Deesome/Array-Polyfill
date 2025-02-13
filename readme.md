@@ -94,7 +94,7 @@ Array.prototype.myIncludes
 
 Array.prototype.myIndexOf
 
-Array.prototype.myMap (Work in Progress)
+Array.prototype.myMap (updated)
 
 Array.prototype.myPop
 
